@@ -1,6 +1,6 @@
 # Python-Roadmap
 
-![Python logo](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)
+![Python logo](https://www.python.org/static/img/python-logo.png)
 
 - [ ] Текст
 - [X] Текст
